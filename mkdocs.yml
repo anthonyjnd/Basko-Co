@@ -1,1 +1,10 @@
+site_name: Basko & Co
+site_url: https://Basko&Co.com/
 
+nav:
+  - Home: index.md
+  - Experience: experience.md
+  - Projects: projects.md
+  - Blog:
+    - Blog1: myblog1.md
+    - Blog2: myblog2.md
