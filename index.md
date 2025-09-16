@@ -9,4 +9,4 @@
 
 ceci est un chat. 
 
-<font color="#86DB87">
+<font color="#86DB87">Voici Basko et Barbeuk</font>
